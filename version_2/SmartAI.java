@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author Andrew Vardy
+ * @author Lamia Rahman
  */
 
 import java.lang.UnsupportedOperationException;
